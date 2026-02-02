@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/azaela414/1-legendpoint/refs/heads/main/1%2Bpointlegendscript.lua"))()
